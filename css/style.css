@@ -1,0 +1,10 @@
+body {
+  overflow: hidden;
+}
+
+.logo {
+  background: url('/media/alfread/Stuff/Amethyst Website/Assets/1.gif');
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
